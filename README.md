@@ -1,8 +1,4 @@
 # Module 5 Challenge
-Due Monday by 11:59pm Points 100 Submitting a text entry box or a website url
-What good is data without a good plot to tell the story?
-
-In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
 
 ## Background
   You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
